@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+header {
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 120px;
+    background: #28ccbe;
+}
+
+nav {
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 48px;
+    background: #e7316d;
+}
+
+#top {
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 453px;
+    background: #57cf20;
+}
+
+#section {
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 192px;
+    background: #e7eb26;
+}
+
+
+footer {
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 70px;
+    background: #e22b1e;
+}
